@@ -1,6 +1,6 @@
 # liftover
 
-This R script converts BED files from the dm3 genome assembly (*Drosophila melanogaster*) to dm6 using UCSC's liftOver tool. It supports multiple BED files in a single run and automatically installs required dependencies and the UCSC dm3 to dm6 chain file.
+This R script converts *Drosophila melanogaster* BED files from the dm3 genome assembly to dm6 using UCSC's liftOver tool. It supports multiple BED files in a single run and automatically installs required dependencies and the UCSC dm3 to dm6 chain file.
 
 
 ## Requirements
