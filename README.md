@@ -4,9 +4,8 @@ This R script converts *Drosophila melanogaster* BED files from the dm3 genome a
 
 
 ## Requirements
-R (version ≥ 4.0 recommended)
-Internet connection (to download the dm3ToDm6 chain file)
-BED files with 5 columns, no header: chr, start, end, name, score
+- R (version ≥ 4.0 recommended)
+- BED files with 5 columns, no header: chr, start, end, name, score
 
 
 ## Installation
